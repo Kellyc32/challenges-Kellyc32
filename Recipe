@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
 <meta charset="UTF-8">
-<title>Tangy Tres Leches Cake</title>
-</head>
-<body>
 <header>Tangy Tres Leches Cake</header>
 <p1>By: Erin McDowell</p1>
 <img src="treslechescake.jpg alt="treslechescake"/>
+<body>
 <p2>My favorite version of the most classic tres leches cake subs out buttermilk for the whole milk.
 I love the subtle tange it adds and how it makes the cake itself a little less rich, meaning I can 
 really load up on the whipped cream topping later.</p2>
@@ -47,10 +44,10 @@ really load up on the whipped cream topping later.</p2>
     it back over the cake until the mixure is absorbed (let it sit for about 30 minutes).</a>
 <a>Finish the cake with the whipped cream and a sprinkle of ground cinnamon. Serve immediately,
     or refrigerate for up to 5 hours before serving.</a>
-</html>
 </ul>
-</main>
 </body>
+</html>
+</main>
 <footer>
 <p>Page Created by Kelly Carney</p>
 </footer>

@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<meta charset="UTF-8">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="your name">
+    <meta name="description" content="description of your page">
+    <meta name="keywords" content="list,of,keywords,separate,by,commas">
+    <title>Tangy Tres Leches Cake</title>
+</head>
 <header>Tangy Tres Leches Cake</header>
 <p1>By: Erin McDowell</p1>
 <body>

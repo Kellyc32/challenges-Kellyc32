@@ -5,32 +5,36 @@
     <meta name="author" content="your name">
     <meta name="description" content="description of your page">
     <meta name="keywords" content="list,of,keywords,separate,by,commas">
+     <title>Tangy Tres Leches Cake</title>
 </head>
 <body>
 <header1>Tangy Tres Leches Cake</header1>
+<img src="treslechescake.jpg">
 <p>By: Erin McDowell</p>
 <p1>My favorite version of the most classic tres leches cake subs out buttermilk for the whole milk.
 I love the subtle tange it adds and how it makes the cake itself a little less rich, meaning I can 
-really load up on the whipped cream topping later.</p1>
-<p2>A vanilla cake with a tangy whip cream frosting which is lightly sprinkled with cinnamon.</p2>
-<header2>Ingredients</header2>
-<p3>Cake:</p3>
+really load up on the whipped cream topping later.A vanilla cake with a tangy whip cream frosting which 
+is lightly sprinkled with cinnamon.</p1>
+<h2>Ingredients</h2>
+<h3>Cake:</h3>
 <ul>
-<li>12 tablespoons (170g) unsalted butter<li>
+<li>12 tablespoons (170g) unsalted butter</li>
 <li>1 1/2 cups (297g) granulated sugar</li>
 <li>7 large (397g) eggs</li>
 <li>1 1/2 teaspoons (7g) vanilla extract</li>
 <li>2 1/4 cups (271g) all purpose floor</li>
 <li>1 1/2 teaspoons (6g) backing powder</li>
 <li>3/4 teaspoon (3g) fine sea salt</li>
-<p4>Soaking:</p4>
+</ul>
+<h4>Soaking:</h4>
+<ul>
 <li>1 cup buttermilk</li>
 <li>one (14 ounce) can sweetened condensed milk</li>
 <li>one (12 ounce) can evaporated milk</li>
 <li>Lightly sweetened whipped cream, as needed for finishing</li>
 <li>Ground cinnamon, as needed for finishing</li>
 </ul>
-<header3>Method</header3>
+<h5>Method</h5>
 <ol>
 <li>Preheat the oven to 350 F. Lightly greas a 9x13 pan with nonstick spray.</li>
 <li>In the bowl of an electric mixer fitted with the paddle attachment, cream the butter 

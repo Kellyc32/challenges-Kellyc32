@@ -7,6 +7,7 @@
     <meta name="keywords" content="list,of,keywords,separate,by,commas">
      <title>Tangy Tres Leches Cake</title>
 </head>
+<main>
 <body>
 <header1>Tangy Tres Leches Cake</header1>
 <p>By: Erin McDowell</p>
@@ -14,7 +15,6 @@
 I love the subtle tange it adds and how it makes the cake itself a little less rich, meaning I can 
 really load up on the whipped cream topping later.A vanilla cake with a tangy whip cream frosting which 
 is lightly sprinkled with cinnamon.</p1>
-<img src="cake.jpg"/>
 <h2>Ingredients</h2>
 <h3>Cake:</h3>
 <ul>
@@ -53,6 +53,7 @@ is lightly sprinkled with cinnamon.</p1>
     or refrigerate for up to 5 hours before serving.</li>
 </ol>
 </body>
+</main>
 </html>
 <footer>
 <p>Page Created by Kelly Carney</p>

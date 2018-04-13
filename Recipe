@@ -8,14 +8,14 @@
     <title>Tangy Tres Leches Cake</title>
 </head>
 <body>
-<header1>Tangy Tres Leches Cake</header1>
-<p1>By: Erin McDowell</p1>
-<p2>My favorite version of the most classic tres leches cake subs out buttermilk for the whole milk.
+<header>Tangy Tres Leches Cake</header>
+<p>By: Erin McDowell</p>
+<p1>My favorite version of the most classic tres leches cake subs out buttermilk for the whole milk.
 I love the subtle tange it adds and how it makes the cake itself a little less rich, meaning I can 
-really load up on the whipped cream topping later.</p2>
+really load up on the whipped cream topping later.</p1>
 <main>
-<p3>A vanilla cake with a tangy whip cream frosting which is lightly sprinkled with cinnamon.</p3>
-<header>Ingredients</header>
+<p2>A vanilla cake with a tangy whip cream frosting which is lightly sprinkled with cinnamon.</p2>
+<header1>Ingredients</header1>
 <a>Cake:</a>
 <ul>
 <a>12 tablespoons (170g) unsalted butter</a>
@@ -32,7 +32,7 @@ really load up on the whipped cream topping later.</p2>
 <a>Lightly sweetened whipped cream, as needed for finishing</a>
 <a>Ground cinnamon, as needed for finishing</a>
 </ul>
-<header3>Method</header3>
+<header2>Method</header2>
 <ul>
 <a>Preheat the oven to 350 F. Lightly greas a 9x13 pan with nonstick spray.</a>
 <a>In the bowl of an electric mixer fitted with the paddle attachment, cream the butter 
